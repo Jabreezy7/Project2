@@ -18,9 +18,7 @@ MARS (MIPS Assembler and Runtime Simulator) is a Java-based tool that allows you
 
 Follow the steps below to install and run MARS MIPS on your system:
 
-Prerequisites
-Java: Ensure that you have Java installed on your machine. MARS requires Java Runtime Environment (JRE) 1.8 or later.
-
+0. (Prerequisite) - Ensure that you have Java installed on your machine. MARS requires Java Runtime Environment (JRE) 1.8 or later.
 1. Click on this link to download MARS: https://github.com/dpetersanderson/MARS/releases/download/v.4.5.1/Mars4_5.jar
 2. Once you have downloaded the MARS .jar file, Open your terminal (Linux or macOS) or Command Prompt (Windows).
 3. Navigate to the directory where the MARS_*.jar file is located.
@@ -38,7 +36,7 @@ Once you have MARS MIPS installed you can clone this repository to your local ma
 git clone https://github.com/Jabreezy7/sokoban-game.git
 ```
 
-Here are the final steps to get the game up and running:
+## Follow these final steps to set up and launch the game:
 1. Click on file in the MARS header section and open up the "game.asm" file
 2. Now Press on tools in the MARS header section and select the "Keypad and LED Display Simulator" Option
 3. Once the LED Display pops up press on the "Connect to MIPS" button on the bottom of the display
