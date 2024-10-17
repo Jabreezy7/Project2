@@ -31,7 +31,7 @@ java -jar MARS_*.jar
 Once you have MARS MIPS installed you can clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/yourusername/sokoban-game.git
+git clone https://github.com/yourusername/sokoban-game.git](https://github.com/Jabreezy7/sokoban-game.git
 ```
 
 Here are the final steps to get the game up and running:
