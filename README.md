@@ -5,7 +5,7 @@ This isn’t just any game—this is a tribute to the timeless Sokoban puzzle! T
 
 This project was created for my CS447 Computer Organization and Assembly Course, where I had the amazing opportunity to dive deep into the intricacies of game design and the assembly language programming. 
 
-In this demo video level 1 took me 38 moves to complete—see if you can solve it in fewer moves! 🧩
+In this demo video, level 1 took me 38 moves to complete—see if you can solve it in fewer moves! 🧩
 
 https://github.com/user-attachments/assets/e87fed7f-2e83-49ec-9a58-10c96a5728ef
 
