@@ -37,10 +37,12 @@ git clone https://github.com/Jabreezy7/sokoban-game.git
 ```
 
 ## Follow these final steps to set up and launch the game:
-1. Click on file in the MARS header section and open up the "game.asm" file
-2. Now Press on tools in the MARS header section and select the "Keypad and LED Display Simulator" Option
-3. Once the LED Display pops up press on the "Connect to MIPS" button on the bottom of the display
-4. Click on the wrench and screwdriver icon to Assemble the current file
-5. Finally, click on the green play button icon (the one without the "1" superscript) in the MARS header section and enjoy!
+1. In MARS, click on **File** in the header section and open the `game.asm` file from the repository.
+2. Next, click on **Tools** in the MARS header section and select **Keypad and LED Display Simulator**.
+3. When the LED Display pops up, click on the **Connect to MIPS** button at the bottom of the display.
+4. Assemble the file by clicking on the **wrench and screwdriver** icon in the MARS toolbar.
+5. Finally, click on the **green play button** (the one without the "1" superscript) to run the game.
+
+Enjoy the Sokoban challenge!
 
 
